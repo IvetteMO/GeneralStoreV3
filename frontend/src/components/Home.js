@@ -25,7 +25,7 @@ const Home = ({match}) => {
   const categories =[
     'Electronics',
     'Cameras',
-    'Laptops',
+    'Laptop',
     'Accesories',
     'Headphones',
     'Food',
